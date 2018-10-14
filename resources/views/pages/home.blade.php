@@ -2,6 +2,11 @@
 
 @section('content')
 
-    <h1> Hello welcome to my Home Page</h1>
+
+    <button type="button" class="btn btn-primary btn-lg" >sign up</button>
+    <button type="button" class="btn btn-secondary btn-lg" style="margin-left:30px;">Login</button>
+
+
+
 
 @stop
