@@ -1,7 +1,7 @@
 <header>
     <nav class="navbar navbar-expand-sm navbar-dark bg-primary fixed-top">
         <div class="container">
-            <a class="navbar-brand" href="/">Lavarel</a>
+            <a class="navbar-brand" href="/">MyNotes</a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse"
                     aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
@@ -16,20 +16,10 @@
                         <a class="nav-link" href="/about">About</a>
                     </li>
                     <li class="nav-item">
-
-                        <a class="nav-link" href="/why-lavarel">Why Lavarel?</a>
+                        <a class="nav-link" href="/notes">Notes</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="/meet-lavarel">Meet Lavarel</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="/connect">Connect</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="/login">Login</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="/get-started">Get Started</a>
+                        <a class="nav-link" href="/contacts">Contacts</a>
                     </li>
                 </ul>
 
